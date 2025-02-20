@@ -1,6 +1,6 @@
 ﻿# NuGet Packages Downloader
 
-This console application allows you to download all available versions of a specified NuGet package. It is developed using .NET 8.
+NuGet Packages Downloader is a console application that allows you to download all available versions of a specified NuGet package. It is developed using .NET 8.
 
 ## Features
 
@@ -18,7 +18,7 @@ This console application allows you to download all available versions of a spec
 Clone the repository:
 
 ```sh
-git clone https://github.com/username/NugetPackagesDownloader.git
+git clone https://github.com/candemiroguz/NugetPackagesDownloader.git
 cd NugetPackagesDownloader
 ```
 
